@@ -342,7 +342,7 @@ cd Niropay
 ## 👨‍💻 Author & Credits
 
 **Niranjan Dabhade**
-- 🌐 Portfolio: [niranjandabhade.dev](https://niranjandabhade.dev)
+- 🌐 Portfolio: [nironman.com](https://nironman.com)
 - 🐙 GitHub: [@NIRONMAN](https://github.com/NIRONMAN)
 
 ---
